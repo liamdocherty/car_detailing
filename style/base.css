@@ -793,14 +793,13 @@ body,*,input,textarea
 	background-attachment:fixed;
 }
 
-	.template-background-image.template-background-image-1	{	background-image:url('../media/image/background-image/1.jpg');	}
-	.template-background-image.template-background-image-2	{	background-image:url('../media/image/background-image/2.jpg');	}
+	.template-background-image.template-background-image-1	{	background-image:url('../media/image/background-image/oliur-123819-unsplash-min.jpg');	}
+	.template-background-image.template-background-image-2	{	background:linear-gradient(0deg,rgba(0,0,0,0.65),rgba(0,0,0,0.80)),url('../media/image/background-image/2.jpg');	}
 	.template-background-image.template-background-image-3	{	background-image:url('../media/image/background-image/3.jpg');	}
-	.template-background-image.template-background-image-4	{	background-image:url('../media/image/background-image/4.jpg');	}
-	.template-background-image.template-background-video-5	{
-		background:linear-gradient(0deg,rgba(0,0,0,0.75),rgba(0,0,0,75)),url('../media/image/background-image/3434.mp4');
-	}
-	.template-background-image.template-background-image-6	{	background-image:url('../media/image/background-image/6.jpg');	}
+		.template-background-image.template-background-image-4	{	background-image:url('../media/image/background-image/4.jpg');	}
+		.template-background-image.template-background-image-5	{	background-image:url('../media/image/background-image/');	}
+				.template-background-image.template-background-image-6	{	background-image:url('../media/image/background-image/6.jpg');	}
+
 
 /******************************************************************************/
 /* Layout																	  */
